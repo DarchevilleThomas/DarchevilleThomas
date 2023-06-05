@@ -1,4 +1,4 @@
-<h1 align="center">Darcheville Thomas, Étudiant de 19 ans en BUT Informatique</h1>
+<h1 align="center">Darcheville Thomas, étudiant de 19 ans en BUT Informatique</h1>
 <br>
 <p align="left"> Je suis actuellement à la recherche d'une alternance pour Janvier 2024 pour une durée de 18 mois.</p>
 <p align="left"> J'ajoute sur ce github : </p>
