@@ -2,9 +2,8 @@
 <br>
 <p align="left"> Je suis actuellement à la recherche d'une alternance pour Janvier 2024 pour une durée de 18 mois.</p>
 <p align="left"> J'ajoute sur ce github : </p>
-<p align="left">   - Mes projets scolaire</p>
+<p align="left">   - Mes projets scolaires</p>
 <p align="left">   - Mes projets personnels</p>
-<br>
 
 
 <h2 align="left">Contactez moi :</h3>
