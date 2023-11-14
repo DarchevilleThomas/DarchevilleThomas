@@ -6,7 +6,7 @@
 Sur ce Github vous retrouverez mes différents projets que ce soit des projets personnels, en groupe ou tutorés.
 
 ### Me contacter: 
-<a href="mailto: darcheville.toma@gmail.com"><img src="https://img.shields.io/badge/-darcheville.toma%40gmail.com-7B83EB?&style=for-the-badge&logo=gmail&logoColor=white" ></a> <a href="www.linkedin.com/in/thomas-darcheville"><img src="https://img.shields.io/badge/thomasdarcheville-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a> 
+<a href="mailto: darcheville.toma@gmail.com"><img src="https://img.shields.io/badge/-darcheville.toma%40gmail.com-7B83EB?&style=for-the-badge&logo=gmail&logoColor=white" ></a> <a href="https://www.linkedin.com/in/thomas-darcheville/"><img src="https://img.shields.io/badge/thomasdarcheville-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a> 
 
 ### Mes différents outils : 🛠
 
