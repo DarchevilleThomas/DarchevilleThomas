@@ -2,6 +2,9 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=%C3%89tudiant+d%C3%A9veloppeur+fullstack)](https://git.io/typing-svg)
 
+Étudiant à l'IUT de Lens afin d'obtenir un BUT Informatique, actuellement à la recherche d'une alternance pour janvier 2024 . <br>
+Sur ce Github vous retrouverez mes différents projets que ce soit des projets personnels, en groupe ou tutorés.
+
 ### Me contacter: 
 <a href="mailto: darcheville.toma@gmail.com"><img src="https://img.shields.io/badge/-darcheville.toma%40gmail.com-7B83EB?&style=for-the-badge&logo=gmail&logoColor=white" ></a> <a href="www.linkedin.com/in/thomas-darcheville"><img src="https://img.shields.io/badge/thomasdarcheville-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a> 
 
@@ -13,7 +16,7 @@
 
 <img src="http://img.shields.io/badge/-windows-00A4EF?style=for-the-badge&logo=windows&logoColor=white"> <img src="http://img.shields.io/badge/- linux-333333?style=for-the-badge&logo=linux&logoColor=white"> 
 
-
+### Statistiques : 
 <center>
   <img align="center" height=200 src="https://github-readme-stats.vercel.app/api?username=DarchevilleThomas&show_icons=true&count_private=true&hide=stars&include_all_commits=false&theme=material-palenight" />
   <img align="center" height=200 src="http://github-readme-streak-stats.herokuapp.com?user=DarchevilleThomas&theme=material-palenight"/>
