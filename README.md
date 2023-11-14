@@ -16,7 +16,7 @@ Sur ce Github vous retrouverez mes différents projets que ce soit des projets p
 
 <img src="http://img.shields.io/badge/-windows-00A4EF?style=for-the-badge&logo=windows&logoColor=white"> <img src="http://img.shields.io/badge/- linux-333333?style=for-the-badge&logo=linux&logoColor=white"> 
 
-### Statistiques : 
+### Mes statistiques : 
 <center>
   <img align="center" height=200 src="https://github-readme-stats.vercel.app/api?username=DarchevilleThomas&show_icons=true&count_private=true&hide=stars&include_all_commits=false&theme=material-palenight" />
   <img align="center" height=200 src="http://github-readme-streak-stats.herokuapp.com?user=DarchevilleThomas&theme=material-palenight"/>
