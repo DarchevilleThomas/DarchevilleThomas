@@ -1,48 +1,21 @@
-<h1 align="center">Darcheville Thomas, étudiant de 19 ans en BUT Informatique</h1>
-<br>
-<p align="left"> Je suis actuellement à la recherche d'une alternance pour Janvier 2024 pour une durée de 18 mois.</p>
-<p align="left"> J'ajoute sur ce github : </p>
-<p align="left">   - Mes projets scolaires</p>
-<p align="left">   - Mes projets personnels</p>
+<h1><center>Thomas DARCHEVILLE</center></h1>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=%C3%89tudiant+d%C3%A9veloppeur+fullstack)](https://git.io/typing-svg)
+
+### Me contacter: 
+<a href="mailto: darcheville.toma@gmail.com"><img src="https://img.shields.io/badge/-darcheville.toma%40gmail.com-7B83EB?&style=for-the-badge&logo=gmail&logoColor=white" ></a> <a href="www.linkedin.com/in/thomas-darcheville"><img src="https://img.shields.io/badge/thomasdarcheville-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a> 
+
+### Mes différents outils : 🛠
+
+<img src="https://img.shields.io/badge/Java%20-%23E00033.svg?&style=for-the-badge&logo=java&logoColor=white">   <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white">  <img src="https://img.shields.io/badge/PHP%20-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white">   <img src="https://img.shields.io/badge/HTML%20-f06529?&style=for-the-badge&logo=&logoColor=white"> <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"> <img src="https://img.shields.io/badge/css%20-264de4?&style=for-the-badge&logo=css&logoColor=%23F7DF1E"> <img src="https://img.shields.io/badge/postgresql%20-0064a5?&style=for-the-badge&logo=postgresql&logoColor=white"> <img src="https://img.shields.io/badge/sqlite%20-blue?&style=for-the-badge&logo=sqlite&logoColor=white"> <img src="https://img.shields.io/badge/bash%20-293137?&style=for-the-badge&logo=bash&logoColor=white"> <img src="https://img.shields.io/badge/laravel%20-F05340?&style=for-the-badge&logo=laravel&logoColor=white"> <img src="https://img.shields.io/badge/flask%20-black?&style=for-the-badge&logo=flask&logoColor=white">
+
+<img src="https://img.shields.io/badge/git%20-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white"/>   <img src="http://img.shields.io/badge/-VS%20Code-000000?style=for-the-badge&logo=Visual-studio-code&logoColor=blue"> <img src="http://img.shields.io/badge/- eclipse-2c2255?style=for-the-badge&logo=eclipse&logoColor=white"> <img src="http://img.shields.io/badge/- intellij%20idea-purple?style=for-the-badge&logo=intellij-idea&logoColor=white"> <img src="http://img.shields.io/badge/- powershell-012456?style=for-the-badge&logo=powershell&logoColor=white"> 
+
+<img src="http://img.shields.io/badge/-windows-00A4EF?style=for-the-badge&logo=windows&logoColor=white"> <img src="http://img.shields.io/badge/- linux-333333?style=for-the-badge&logo=linux&logoColor=white"> 
 
 
-<h2 align="left">Contactez moi :</h3>
-<p align="left">
-  <!--
-<a href="mailto:darcheville.toma@gmail.com" target="blank"><img align="center" src="https://github.com/DarchevilleThomas/DarchevilleThomas/assets/122434335/dcb67707-fbf2-4344-aa01-8261811ad6dc" alt="thomas-darcheville-gmail" height="30" width="40"/></a>
-  -->
-<a href="https://linkedin.com/in/thomas-darcheville" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thomas-darcheville" height="30" width="40" /></a>
-</p>
-
-<h2 align="left">Langages et Outils :</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<img src="https://github.com/DarchevilleThomas/DarchevilleThomas/assets/122434335/1b8f5833-c0f8-4a4f-afab-8953a65eab68" alt="laravel" width="40" height="40"/> </a>
-<img src="https://github.com/DarchevilleThomas/DarchevilleThomas/assets/122434335/2e199ed4-3131-4827-9954-7f251ae64dd3" alt="php" width="50" height="40"/> </a> </p>
-
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=darchevillethomas&show_icons=true&locale=en&layout=compact" alt="darchevillethomas" /></p>
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=darchevillethomas&" alt="darchevillethomas" /></p>
-
-<!--
-**DarchevilleThomas/DarchevilleThomas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<center>
+  <img align="center" height=200 src="https://github-readme-stats.vercel.app/api?username=DarchevilleThomas&show_icons=true&count_private=true&hide=stars&include_all_commits=false&theme=material-palenight" />
+  <img align="center" height=200 src="http://github-readme-streak-stats.herokuapp.com?user=DarchevilleThomas&theme=material-palenight"/>
+  <img align="center" height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarchevilleThomas&langs_count=8&layout=compact&theme=material-palenight&" />
+</center>
