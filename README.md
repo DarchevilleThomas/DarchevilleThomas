@@ -8,7 +8,7 @@ Sur ce Github vous retrouverez mes différents projets que ce soit des projets p
 </p>
 
 ## 💬 Me contacter: 
-<a href="mailto: darcheville.toma@gmail.com"><img src="https://img.shields.io/badge/-darcheville.toma%40gmail.com-7B83EB?&style=for-the-badge&logo=gmail&logoColor=white" ></a> <a href="https://www.linkedin.com/in/thomas-darcheville/"><img src="https://img.shields.io/badge/thomasdarcheville-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a> 
+<a href="mailto: darcheville.toma@gmail.com"><img src="https://img.shields.io/badge/-darcheville.toma%40gmail.com-7B83EB?&style=for-the-badge&logo=gmail&logoColor=white" ></a> <a href="https://www.linkedin.com/in/thomas-darcheville/" target='_blank'><img src="https://img.shields.io/badge/thomasdarcheville-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a> 
 
 ## 🛠 Mes différents outils :
 
@@ -20,7 +20,7 @@ Sur ce Github vous retrouverez mes différents projets que ce soit des projets p
 
 ## 📈 Mes statistiques : 
 <div align="center">
-  <img align="center" height=200 src="https://github-readme-stats.vercel.app/api?username=DarchevilleThomas&show_icons=true&count_private=true&hide=stars&include_all_commits=false&theme=material-palenight" />
-  <img align="center" height=200 src="http://github-readme-streak-stats.herokuapp.com?user=DarchevilleThomas&theme=material-palenight"/>
-  <img align="center" height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarchevilleThomas&langs_count=8&layout=compact&theme=material-palenight&" />
+  <img align="center" height=150 src="http://github-readme-streak-stats.herokuapp.com?user=DarchevilleThomas&theme=material-palenight"/>
+  <img align="center" height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarchevilleThomas&langs_count=8&layout=compact&theme=material-palenight&" />
+  <img align="center" height=150 src="https://github-readme-stats.vercel.app/api?username=DarchevilleThomas&show_icons=true&count_private=true&hide=stars&include_all_commits=false&theme=material-palenight" />
 </div>
